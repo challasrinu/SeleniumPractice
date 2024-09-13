@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/test/java/practice/datadriventesting/CreateOrgTest.java=UTF-8
+encoding//src/test/java/practice/datadriventesting/CreateOrgTestFromJSON.java=UTF-8
+encoding//src/test/java/practice/datadriventesting/CreateOrgTestFromXMl.java=UTF-8
+encoding//src/test/java/practice/datadriventesting/DDT_CreateOrgTest.java=UTF-8
+encoding//src/test/java/practice/datadriventesting/ReadDataBasedOnCondition.java=UTF-8
+encoding//src/test/java/practice/datadriventesting/ReadMultipleDataFromEXCEL.java=UTF-8
+encoding//src/test/java/practice/datadriventesting/ReaddataFromExcel.java=UTF-8
+encoding//src/test/java/practice/orgtest/CreateOrganizationTest.java=UTF-8
+encoding//src/test/java/practice/orgtest/CreateOrganizationWithIndustriesTest2.java=UTF-8
+encoding//src/test/java/practice/orgtest/CreateOrganizationWithPhoneNumber.java=UTF-8
